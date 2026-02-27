@@ -1,0 +1,6 @@
+<a href="{{$href}}"
+    class="rounded-md border border-slate-300 bb-white px-2.5 py-1.5 text-center text-sm font-semibold text-black shadow-sm hover:bg-slate-100">
+    <!-- Happiness is not something readymade. It comes from your own actions. - Dalai Lama -->
+     {{$slot}}
+
+</a>
