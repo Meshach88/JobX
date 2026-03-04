@@ -13,4 +13,5 @@ class Job extends Model
     protected $table = 'job_listings';
 
     public static array $experience = ['entry', 'intermediate', 'senior'];
+    public static array $category = ['IT', 'Finance', 'Sale', 'Marketing'];
 }
